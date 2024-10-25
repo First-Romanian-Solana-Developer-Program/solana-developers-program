@@ -1,3 +1,7 @@
 node_modules
 .env
 package-lock.json
+secret.json
+lab_6/rustlings/Cargo.lock
+lab_6/rustlings/target/
+lab_6/rustlings/.vscode/
